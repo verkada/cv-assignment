@@ -1,0 +1,8 @@
+build/
+cache/
+*.pyc
+*.un~
+*.swp
+*.o
+**/*.venv
+**/._*
